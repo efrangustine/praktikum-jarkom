@@ -21,8 +21,8 @@ Terakhir, hentikan proses packet capture pada Wireshark.
 
 ## Lampiran 
 Hasil Percobaan:
-![Hasil Percobaan](../assets/image/Week1gbr1.png)
-![Hasil Percobaan](../assets/image/Week1gbr2.png)
-![Hasil Percobaan](../assets/image/Week1gbr3.png)
-![Hasil Percobaan](../assets/image/Week1gbr4.png)
-![Hasil Percobaan](../assets/image/Week1gbr5.png)
+![Hasil Percobaan](../assets/image/Week1gbr1.jpeg)
+![Hasil Percobaan](../assets/image/Week1gbr2.jpeg)
+![Hasil Percobaan](../assets/image/Week1gbr3.jpeg)
+![Hasil Percobaan](../assets/image/Week1gbr4.jpeg)
+![Hasil Percobaan](../assets/image/Week1gbr5.jpeg)
