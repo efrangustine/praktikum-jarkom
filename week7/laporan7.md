@@ -42,7 +42,7 @@ Pada pengujian UDP, terlihat bahwa komunikasi berlangsung secara instan. Klien m
 
 ### B. Pengujian Protokol TCP
 Pada pengujian TCP, proses pertukaran data diawali dengan pembangunan sesi. Hasil terminal menunjukkan keberhasilan transmisi data yang lebih terstruktur, di mana setiap pesan yang masuk diproses dan dikembalikan melalui jalur koneksi yang telah divalidasi.
-![Output Terminal TCP](../assets/image/Week7gbr7.jpeg)
+![Output Terminal TCP](../assets/image/Week7gbr6.jpeg)
 
 ---
 
