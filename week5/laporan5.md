@@ -1,6 +1,6 @@
 # Laporan Praktikum Jaringan Komputer - Modul 5: UDP
 **Nama:** Efran Gustine Yulianto  
-**NIM:** 103072400065  
+**NIM:** 103072400046  
 **Kelas:** IF-04-02  
 
 ---
