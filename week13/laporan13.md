@@ -14,8 +14,8 @@
 4. Menghentikan aktivitas perekaman data di Wireshark segera setelah halaman web termuat secara sempurna.
 5. Menerapkan instruksi penyaringan dengan memasukkan kata kunci `http` pada kolom filter Wireshark.
 6. Mengidentifikasi paket data berjenis *HTTP GET*, kemudian menganalisis rincian informasi struktural *Ethernet Frame* yang melekat pada paket tersebut.
-![](../assets/week13/Week13gbr1.jpeg)
-![](../assets/week13/Week13gbr2.jpeg)
+![](../assets/image/Week13gbr1.jpeg)
+![](../assets/image/Week13gbr2.jpeg)
 
 ### B. Pemeriksaan dan Manajemen Tabel ARP Cache
 1. Mengakses dan membuka jendela Command Prompt (CMD).
@@ -24,7 +24,7 @@
 4. Membersihkan seluruh data riwayat pemetaan dengan menjalankan perintah: arp -d *
 5. Menjalankan kembali perintah: arp -a
 6. Melakukan verifikasi akhir guna memastikan bahwa seluruh data *ARP Cache* telah berhasil dikosongkan atau diperbarui.
-![](../assets/week13/Week13gbr3.jpeg)
+![](../assets/image/Week13gbr3.jpeg)
 
 ### C. Peninjauan Terhadap Siklus Protokol ARP
 1. Mengaktifkan kembali sesi perekaman lalu lintas paket data yang baru pada aplikasi Wireshark.
@@ -32,8 +32,8 @@
 3. Memicu terbentuknya lalu lintas data baru di jaringan dengan cara berinteraksi atau mengakses *host* lain dalam satu segmen jaringan lokal.
 4. Mengamati karakteristik kemunculan paket data *ARP Request* dan *ARP Reply* pada panel Wireshark.
 5. Membedah dan menganalisis informasi penting di dalam paket, yang mencakup *Source MAC Address*, *Destination MAC Address*, *Source IP Address*, serta *Target IP Address*.
-![](../assets/week13/Week13gbr4.jpeg)
-![](../assets/week13/Week13gbr5.jpeg)
+![](../assets/image/Week13gbr4.jpeg)
+![](../assets/image/Week13gbr5.jpeg)
 
 ---
 
