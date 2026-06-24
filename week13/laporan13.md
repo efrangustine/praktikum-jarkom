@@ -2,8 +2,8 @@
 
 ## Modul 13 – Ethernet dan ARP
 
-**Nama:** MUHAMMAD ZAKI OKTARUNA  
-**NIM:** 103072400001  
+**Nama:** EFRAN GUSTINE YULIANTO  
+**NIM:** 103072400046  
 
 ## Langkah Percobaan
 
